@@ -1,4 +1,4 @@
-package com.muneiah.example.fwmapp;
+package com.friends.example.fwmapp;
 
 import android.content.Context;
 

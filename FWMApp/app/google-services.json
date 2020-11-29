@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "380751845223",
+    "firebase_url": "https://foodmanagement-3b18f.firebaseio.com",
+    "project_id": "foodmanagement-3b18f",
+    "storage_bucket": "foodmanagement-3b18f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380751845223:android:211fe3001f473a2a0a01c2",
+        "android_client_info": {
+          "package_name": "com.friends.example.fwmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380751845223-rsgjeg55h8u3pdcfo0ap8pvrd842glcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.friends.example.fwmapp",
+            "certificate_hash": "62ef6fbd59c6916d1337249f3ece7c5e73d8ba6d"
+          }
+        },
+        {
+          "client_id": "380751845223-nn815kfet5k6hodlc3hle7g934q31kcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpFZ18v_PcnqOl6bJvu9mhL-XVtxH9r8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380751845223-nn815kfet5k6hodlc3hle7g934q31kcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
